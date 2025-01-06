@@ -1,1 +1,1 @@
-![App Screenshot](images/push-branching.png)
+![App Screenshot](./images/push-branching.png)
